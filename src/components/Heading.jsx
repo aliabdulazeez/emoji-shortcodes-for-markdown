@@ -5,7 +5,7 @@ function Heading() {
     <header>
       <h1>Markdown Emoji Codes</h1>
       <div className="sub-header">
-        <h6>FIND YOUR FAVORITE ONE AND COPY WITH JUST ONE CLICK</h6>
+        <h6>FIND YOUR FAVORITE EMOJI AND COPY WITH JUST ONE CLICK</h6>
         <div className="github-stat">
           <a
             className="git-star"
